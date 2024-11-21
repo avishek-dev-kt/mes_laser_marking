@@ -1,0 +1,18 @@
+{
+    "API_Key": "fd932fc1a30e220",
+    "API_Secret": "90462a9d993d6fa",
+    "ERP_URL": "http://192.168.21.212:8000/api/resource/SMT%20Traceability",
+    "Machine_Data_Folder": "/home/avishek/Desktop/OldSys/MES_Project/Machine_Data_Folder/Laser_Marking",
+    "Folders": {
+        "JSON_Data_Folder": "/home/avishek/Desktop/SMT_KT01_V1/01_LM/JSON_Data_Folder",
+        "Scan_Folder": "/home/avishek/Desktop/SMT_KT01_V1/01_LM/Scan_Folder",
+        "Backup_Folder": "/home/avishek/Desktop/SMT_KT01_V1/01_LM/Backup_Folder",
+        "Logs_Folder": "/home/avishek/Desktop/SMT_KT01_V1/01_LM/Logs_Folder",
+        "Done_Folder": "/home/avishek/Desktop/SMT_KT01_V1/01_LM/Done_Folder"
+    },
+    "Log_Folders": {
+        "Copy_Logs": "/home/avishek/Desktop/SMT_KT01_V1/01_LM/Logs_Folder/Copy_Logs",
+        "Backup_Logs": "/home/avishek/Desktop/SMT_KT01_V1/01_LM/Logs_Folder/Backup_Logs",
+        "Parser_Logs": "/home/avishek/Desktop/SMT_KT01_V1/01_LM/Logs_Folder/Parser_Logs"
+    }
+}
